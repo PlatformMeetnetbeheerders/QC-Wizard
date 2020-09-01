@@ -13,7 +13,7 @@ Software for Quality Control (QC) of groundwater data
 
 ----------------------------------------------  License info  ----------------------------------------------------------
 
-Published by Trefoil Hydrology, under the CC-BY Public License (Creative Commons Attribution 4.0 International).
+Published by Platform Meetnetbeheerders, under the CC-BY Public License (Creative Commons Attribution 4.0 International).
 Subject to appropriate attribution and credit of licensor, this software and material may be used and be reproduced in 
 any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written 
 consent  of the publisher.
