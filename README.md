@@ -5,19 +5,16 @@ Software for Quality Control (QC) of groundwater data
 ----------------------------------- Installation and instructions (64-bit version) -------------------------------------
 
 Installation steps:
-^^^^^^^^^^^^^^^^^^^
 1) Install MCRInstaller.exe if absent 	        (Matlab Compiler Runtime, v8.3 / r2014a 64-bit)
 2) Install vcredist_x64.exe if absent           (Visual C Redistributables, 2012 64-bit)
 3) Unzip QC2BROWizard v07 (64 bit).zip          (QC- and BRO Migration Wizard, in empty directory)
 4) Unzip MenyanthesOS v3.x.c.g (64 bit).zip     (Menyanthes OS, in empty directory, a.o creates QC2BROWizard input files)
 
 Get started:
-^^^^^^^^^^^^
 1a) Open file '2020-07-28 QC-Wizard testdata.men' via the QC-Wizard menubar, or alternatively
 1b) Import data in MenyanthesOS and create your own men-file
 
 Operational use:
-^^^^^^^^^^^^^^^^
 Please note that the current version is a prototype taht is not yet fit for operational use. Please contact the platform 
 if you have questions, ideas or suggestions for uses or usage potential.
 
