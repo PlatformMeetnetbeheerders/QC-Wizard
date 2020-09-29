@@ -10,9 +10,10 @@ Installation steps:
 3) Unzip QC2BROWizard v07 (64 bit).zip          (QC- and BRO Migration Wizard, in empty directory)
 4) Unzip MenyanthesOS v3.x.c.g (64 bit).zip     (Menyanthes OS, in empty directory, a.o creates QC2BROWizard input files)
 
-Get started with testdata:
-1) Start QC2BROWizard.exe (by double clicking)
-2) Open file '2020-07-28 QC-Wizard testdata.men' via the QC-Wizard menubar
+Get started with example data:
+1) Unzip file 'QC-Example data.zip'
+2) Start QC2BROWizard.exe (by double clicking)
+3) Open a men-file of your choice via the QC-Wizard menubar
 
 Or get started with your own data:
 1) Start MenyanthesOS.exe (by double clicking)
